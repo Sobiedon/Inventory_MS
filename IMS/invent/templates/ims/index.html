@@ -1,0 +1,29 @@
+{% extends 'ims/base.html' %}
+
+
+{% block body %}
+
+{% if user.is_authenticated %}
+{% if suppliers %}
+{% include 'ims/supplier.html' %}
+{% endif %}
+
+{% if inventory %}
+{% include 'ims/inventory.html' %}
+{% endif %}
+
+{% if checkout %}
+{% include 'ims/checkout.html' %}
+{% endif %}
+
+{% if transactions %}
+{% include 'ims/transaction.html' %}
+{% endif %}
+
+{% if report %}
+{% include 'ims/report.html' %}
+{% endif %}
+
+{% endif %}
+
+{% endblock body %}
