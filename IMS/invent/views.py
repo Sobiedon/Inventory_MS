@@ -1,10 +1,8 @@
 from django.shortcuts import render, HttpResponse
 from django.contrib.auth.decorators import login_required
 from easy_pdf import rendering
-from .models import Supplier, Inventory, Transaction, SupplierProductCostView
-from .models import *
-from .forms import *
 
+from .models import *
 
 
 @login_required

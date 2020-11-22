@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c32f808-3078-40b4-b119-1c3bfc25655c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IMS/invent/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMS/invent/templates/ims/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMS/invent/templates/ims/baselog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMS/invent/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/.idea/Inventory_MS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/checkout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/inventory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/ipdf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/supplier.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/tpdf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/templates/ims/transaction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/ims/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/inventms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/inventms/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/inventms/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/inventms/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMS/IMS/manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/IMS" />
+  </component>
+  <component name="ProjectId" id="1jZxLhUOAHoAS2f7yg9EO8OfHQp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IMS/invent/templates/registration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Julie\webdev\Inventory_MS\IMS\invent\templates\registration" />
+      <recent name="C:\Users\Julie\webdev\Inventory_MS\IMS\invent\templates\ims" />
+      <recent name="C:\Users\Julie\webdev\Inventory_MS\IMS\invent" />
+      <recent name="C:\Users\Julie\webdev\Inventory_MS\IMS\invent\templates" />
+      <recent name="C:\Users\Julie\webdev\Inventory_MS\IMS\invent\staticfiles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Inventory_MS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c32f808-3078-40b4-b119-1c3bfc25655c" name="Default Changelist" comment="" />
+      <created>1604025360482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604025360482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2618" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605583157874">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2618" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605583157874" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605406052936">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1605406052936" />
+    <state x="2061" y="94" width="1678" height="794" key="dock-window-1" timestamp="1605576080374">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2061" y="94" width="1678" height="794" key="dock-window-1/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605576080374" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1605991860255">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1605758784755" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605991860255" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604200317639" />
+  </component>
+</project>

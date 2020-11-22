@@ -1,0 +1,34 @@
+Collecting xhtml2pdf
+  Using cached xhtml2pdf-0.2.5.tar.gz (100 kB)
+Collecting html5lib>=1.0
+  Using cached html5lib-1.1-py2.py3-none-any.whl (112 kB)
+Collecting pyPdf2
+  Using cached PyPDF2-1.26.0.tar.gz (77 kB)
+Collecting Pillow
+  Using cached Pillow-8.0.1-cp37-cp37m-win_amd64.whl (2.1 MB)
+Collecting reportlab>=3.3.0
+  Using cached reportlab-3.5.55-cp37-cp37m-win_amd64.whl (2.3 MB)
+Requirement already satisfied: six in c:\users\julie\appdata\local\packages\pythonsoftwarefoundation.python.3.7_qbz5n2kfra8p0\localcache\local-packages\python37\site-packages (from xhtml2pdf) (1.15.0)
+Collecting python-bidi>=0.4.2
+  Using cached python_bidi-0.4.2-py2.py3-none-any.whl (30 kB)
+Collecting arabic-reshaper>=2.1.0
+  Downloading arabic_reshaper-2.1.1.tar.gz (18 kB)
+Collecting webencodings
+  Using cached webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Collecting future
+  Using cached future-0.18.2.tar.gz (829 kB)
+Requirement already satisfied: setuptools in c:\program files\windowsapps\pythonsoftwarefoundation.python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\lib\site-packages (from arabic-reshaper>=2.1.0->xhtml2pdf) (47.1.0)
+Using legacy 'setup.py install' for xhtml2pdf, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for pyPdf2, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for arabic-reshaper, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for future, since package 'wheel' is not installed.
+Installing collected packages: webencodings, html5lib, pyPdf2, Pillow, reportlab, python-bidi, future, arabic-reshaper, xhtml2pdf
+    Running setup.py install for pyPdf2: started
+    Running setup.py install for pyPdf2: finished with status 'done'
+    Running setup.py install for future: started
+    Running setup.py install for future: finished with status 'done'
+    Running setup.py install for arabic-reshaper: started
+    Running setup.py install for arabic-reshaper: finished with status 'done'
+    Running setup.py install for xhtml2pdf: started
+    Running setup.py install for xhtml2pdf: finished with status 'done'
+Successfully installed Pillow-8.0.1 arabic-reshaper-2.1.1 future-0.18.2 html5lib-1.1 pyPdf2-1.26.0 python-bidi-0.4.2 reportlab-3.5.55 webencodings-0.5.1 xhtml2pdf-0.2.5
